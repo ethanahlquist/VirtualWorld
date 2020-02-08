@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Point.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/GoldVisitor.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Obstacle.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Background.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/EvilMiner.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/WorldModel.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/AllFalseEntityVisitor.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/FoolsGold.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/EntityVisitor.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Event.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/KineticEntity.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/VirtualWorld.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/ImageStore.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/OreBlob.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Position.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/EvilVisitor.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/SmithVisitor.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Shrine.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/StoneWall.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Ore.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/AbstractMiner.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/OreVisitor.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/MinerNotFull.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Entity.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Activity.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/imagelist</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/MinerFull.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Action.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Blacksmith.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/AnimatedEntity.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Vein.java</file>
+            <file>file:/C:/Users/Ethan/Documents/PolyClasses/CPE_203/NewProject/src/Animation.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,17 @@
+In my edits of the UML, I left no Methods in the functions class. This was because I felt that none of the methods
+needed to be in a class specifically in a class made for running functions, but could resonable used elsewhere.
+
+The other part of determining where to place Methods, that chould be placed in multipule class. 
+I had a little bit more difficulty. This difficulty was found in placing ParseMethods and ExecuteMethods
+because both methods, ocassionally, needed the same private variables to run; however, placing all these functions
+in the same class would be messy. So, I placed ParseMethods in WorldModel-class and ExecuteMethods in the
+Event-class. I placed the ExecuteMethods in the EventClass, because it seemed like executing an activity could be
+concidered as an Event from the Game's perspective.
+
+In the places where, the same variable was used in two different class, I made a copy of that variable into
+both classes. This will not be how I actually implement this code, instead I will make a getMethod(), so that
+one class can access the variable whithout haveing its on copy in its own class.
+
+The way I organized my UML placed a lot of private variables in the WorldModel class, making the class look larger
+than the majoraty of the others. I thought this was alright because I made sure that the distribution of Methods
+were fairly balanced.
